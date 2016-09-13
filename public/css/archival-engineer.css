@@ -1,0 +1,28 @@
+html { 
+  background: url("../images/8601795375_d12d839d49_h.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.one-half {
+background-color: rgba(5,4,2,0.8);
+width:100%;
+height: 100%;
+margin-left:auto;
+margin-right:auto;
+padding: 15px; }
+
+.one-half a img {
+    display:block;
+    margin:auto;
+    padding-bottom: 15px;
+    
+}
+
+a, a:hover {
+  /*cursor: crosshair;*/
+  cursor: url("../images/cursor.png"), auto;
+
+}
